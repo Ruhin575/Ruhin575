@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ruhin575
+- 👋 Hi, I’m Ruhin Bhattasali
 - 👀 I’m interested in AI ML
 - 🌱 I’m currently learning DSA and AI ML
 - I am a BTech CSE student @IIT Hyderabad'28  
